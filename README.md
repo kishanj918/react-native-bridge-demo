@@ -1,5 +1,9 @@
 # react-native-bridge-demo
 
+
+1) npm install
+2) react-native run-ios
+
 checkout files :
 ios/CustomMapManager.h
 ios/CustomMapManager.m
