@@ -20,3 +20,6 @@ references
 1) https://medium.com/ibm-watson-developer-cloud/create-native-ui-component-in-react-native-6f4b7fe4cc95#.dq6r844yv
 2) https://www.slideshare.net/JeremyGrancher/react-native-custom-components
 
+For Android
+
+1) http://www.codepool.biz/react-native-bridging-modules-android.html
